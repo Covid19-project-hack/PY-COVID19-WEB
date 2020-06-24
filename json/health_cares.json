@@ -1,0 +1,226 @@
+{
+    "ccc": [
+        {
+            "sno": "1",
+            "name": "Government guest house",
+            "district": "Yanam",
+            "contact": "0884-2321424\r\n9994264111 Deputy Thahsildar Mr.Jayachandiran.",
+            "type": "CCC"
+        },
+        {
+            "sno": "2",
+            "name": "Government BC Hostel",
+            "district": "Yanam",
+            "contact": "0884-2321424\r\n9994264111 Deputy Thahsildar Mr.Jayachandiran.",
+            "type": "CCC"
+        },
+        {
+            "sno": "3",
+            "name": "Market yard guest house",
+            "district": "Yanam",
+            "contact": "0884-2321424\r\n9994264111 Deputy Thahsildar Mr.Jayachandiran.",
+            "type": "CCC"
+        },
+        {
+            "sno": "4",
+            "name": "Multipurpose   Community   Hall Ashok Nagar, Lawspet,",
+            "district": "Puducherry",
+            "contact": "Mr.  Coumarane,  Thahsildar. 9994077548",
+            "type": "CCC"
+        },
+        {
+            "sno": "5",
+            "name": "Community hall , Jawahar nagar, Boomiyanpet,",
+            "district": "Puducherry",
+            "contact": "Mr.                       Coumarane, Thahsildar.9994077548",
+            "type": "CCC"
+        },
+        {
+            "sno": "6",
+            "name": "Community  hall,  Ganesh  nagar,\r\nMuthiyalpet,",
+            "district": "Puducherry",
+            "contact": "Mr.  Rajesh  kanna,  Tahsildar\r\n9486446899",
+            "type": "CCC"
+        },
+        {
+            "sno": "7",
+            "name": "Community hall, Kurusukuppam",
+            "district": "Puducherry",
+            "contact": "Mr.  Rajesh  kanna,  Tahsildar\r\n9486446899",
+            "type": "CCC"
+        },
+        {
+            "sno": "8",
+            "name": "Community   hall,   Moolakulam,\r\nPuducherry",
+            "district": "Puducherry",
+            "contact": "Mr.                       Coumarane,\r\nThahsildar.9994077548",
+            "type": "CCC"
+        },
+        {
+            "sno": "9",
+            "name": "Mahatma Gandhi Dental college",
+            "district": "Puducherry",
+            "contact": "Dr. Saravanan 9843232828",
+            "type": "CCC"
+        },
+        {
+            "sno": "10",
+            "name": "ESI HOSPITAL",
+            "district": "Puducherry",
+            "contact": "Dr. Narayanan 9442638550",
+            "type": "CCC"
+        },
+        {
+            "sno": "11",
+            "name": "Hotel Ashoka SeaGulls",
+            "district": "Karaikal",
+            "contact": "Dr. Rajmohan\r\n9442128509",
+            "type": "CCC"
+        },
+        {
+            "sno": "12",
+            "name": "Karaikal Medical\r\nCentre(KMC)",
+            "district": "Karaikal",
+            "contact": "DR. Amjath Ibrahim\r\n9597514012",
+            "type": "CCC"
+        },
+        {
+            "sno": "13",
+            "name": "St. Rocks, Puduthurai\r\n(Private)",
+            "district": "Karaikal",
+            "contact": "Sr. Lourdmary\r\n8940795669",
+            "type": "CCC"
+        },
+        {
+            "sno": "14",
+            "name": "Dr. Shakthivel Hospital",
+            "district": "Karaikal",
+            "contact": "Dr. Shakthivel\r\n9842426095",
+            "type": "CCC"
+        },
+        {
+            "sno": "15",
+            "name": "Avvaiyar College New Block",
+            "district": "Karaikal",
+            "contact": "Dr. Thyagarajan\r\n6382284056",
+            "type": "CCC"
+        },
+        {
+            "sno": "16",
+            "name": "Nurses Hostel New Block",
+            "district": "Karaikal",
+            "contact": "Dr. Rajmohan\r\n9442128509",
+            "type": "CCC"
+        },
+        {
+            "sno": "17",
+            "name": "Mahe Dental Institute",
+            "district": "Mahe",
+            "contact": "Dr Arya Krishna\r\nPrasad 9745603906",
+            "type": "CCC"
+        },
+        {
+            "sno": "18",
+            "name": "Rajiv Gandhi Ayurveda\r\nMedical College",
+            "district": "Mahe",
+            "contact": "Dr. Kuber\r\n9448223636",
+            "type": "CCC"
+        },
+        {
+            "sno": "19",
+            "name": "Jawahar Navodaya Vidyalaya",
+            "district": "Mahe",
+            "contact": "Dr Rathnakaran\r\n9495541017",
+            "type": "CCC"
+        }
+    ],
+    "dchc": [
+        {
+            "sno": "1",
+            "name": "Pondicherry    Institute    of    Medical Sciences, Ganapathychettykulam,\r\nPuducherry",
+            "contact": "Dr. Amit 9861569583",
+            "type": "DCHC"
+        },
+        {
+            "sno": "2",
+            "name": "Mahatma Gandhi Medical College &\r\nResearch Institute Kirumampakkam, Puducherry.",
+            "contact": "Dr. Lokesh 8825481583",
+            "type": "DCHC"
+        },
+        {
+            "sno": "3",
+            "name": "Arupadaiveedu Medical\r\nCollege,Kirumampakkam,Puducherry",
+            "contact": "Dr. Shankar\r\n9003482085",
+            "type": "DCHC"
+        },
+        {
+            "sno": "4",
+            "name": "Sri Venkateswara Medical\r\nCollege.  Ariyur, Puducherry",
+            "contact": "Dr. Syed allem\r\n8179406216",
+            "type": "DCHC"
+        },
+        {
+            "sno": "5",
+            "name": "Sri ManakulaVinayaga Medical College, Madagadipet, Puducherry",
+            "contact": "Dr. Vinayagamoorthy\r\n9894135452",
+            "type": "DCHC"
+        },
+        {
+            "sno": "6",
+            "name": "Sri Lakshmi Narayana  Medical\r\nCollege, Agaram village, Villianur, Puducherry",
+            "contact": "Dr. Rajini 9865233325",
+            "type": "DCHC"
+        },
+        {
+            "sno": "7",
+            "name": "GHCD",
+            "contact": "Dr. Govindaraj\r\n9442602101",
+            "type": "DCHC"
+        },
+        {
+            "sno": "8",
+            "name": "Rajiv Gandhi Women and\r\nChild Hospital",
+            "contact": "Dr. P. Sujatha\r\n9443090111",
+            "type": "DCHC"
+        },
+        {
+            "sno": "9",
+            "name": "Government General Hospital,\r\nMahe",
+            "contact": "Dr. Biju\r\n9495640604",
+            "type": "DCHC"
+        },
+        {
+            "sno": "10",
+            "name": "Government General Hospital,\r\nYanam",
+            "contact": "Dr. Satyanarayana\r\n8184960918",
+            "type": "DCHC"
+        },
+        {
+            "sno": "11",
+            "name": "Sri     Vinayaga\r\nCollege, Karaikal",
+            "undefined": "Medical",
+            "contact": "Dr. Eswar raj\r\n9344490099",
+            "type": "DCHC"
+        }
+    ],
+    "dch": [
+        {
+            "sno": "1",
+            "name": "JIPMER , Gorimedu, Puducherry",
+            "contact": "Dr. Vivekanandan 9443279930",
+            "type": "DCH"
+        },
+        {
+            "sno": "2",
+            "name": "Indira   Gandhi   Medical   College   & Research      Institute,      Kathirkamam,\r\nPuducherry",
+            "contact": "Dr. B. Kavita 9943438870",
+            "type": "DCH"
+        },
+        {
+            "sno": "3",
+            "name": "Government General Hospital, Karaikal",
+            "contact": "Dr. Vijaykumar 9443071058",
+            "type": "DCH"
+        }
+    ]
+}

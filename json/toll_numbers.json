@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "Puducherry",
+            "phone_number": "104, 1070"
+        },
+        {
+            "sno": "2",
+            "district": "Yanam",
+            "phone_number": "+91-884-2325100"
+        },
+        {
+            "sno": "3",
+            "district": "Mahe",
+            "phone_number": "+91-490 2334042, 8592861000, 9497379127"
+        },
+        {
+            "sno": "4",
+            "district": "Karaikal",
+            "phone_number": "04368 261242, 9488770024"
+        }
+    ]
+}

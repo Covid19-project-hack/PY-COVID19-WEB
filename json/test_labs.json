@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": "Indira Gandhi Medical College, Puducherry",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": "Pondicherry Institute of Medical Sciences, Ganapathichettikulam, Kalapet, Puducherry",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "4",
+            "name": "Intermediate Reference Laboratory, Govt. Hospital for Chest Diseases, Gorimedu, Puducherry",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        }
+    ]
+}
