@@ -121,6 +121,6 @@ function check() {
     nodeData.serious = false;
   }
 
-  console.log(nodeData,firebaseUser.uid);
+  console.log(nodeData);
   fb_ref.child(user).set(nodeData);
 }
